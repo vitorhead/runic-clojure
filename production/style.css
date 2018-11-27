@@ -1,0 +1,31 @@
+body {
+	border: 0;
+	font-size: 100%;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #ADD8E6;
+}
+
+.fullscreen {
+  height: 95vh;
+  width: 95vw;
+  margin: 0 auto;
+}
+
+.input-translate {
+    width: 100%;
+    height: 50%;
+    border: none;
+    font-size: 48px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-bottom: 10px;
+    resize: none;
+}
+
+.translated {
+  width: 100%;
+  height: 50%;
+  font-size: 60px;
+  text-align: right;
+  border: none;
+  resize: none;
+}
